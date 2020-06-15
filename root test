@@ -1,0 +1,8 @@
+from tkinter import
+root＝Tk()
+root.little("oscar app")
+label1 = Label(root, text="My GUI APP!")
+label1.pack()
+label2 = Label(root, text="lable2 with longer sentence!")
+label2.pack()
+root.mainloop()
